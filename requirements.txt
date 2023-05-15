@@ -1,0 +1,12 @@
+matplotlib>=3.5.1
+numpy>=1.23.4
+tqdm>=4.64.0
+torchvision>=0.13.0
+sklearn>=0.0
+scikit-learn>=1.1.2
+pillow>=9.2.0
+einops>=0.4.1
+fvcore>=0.1.5.post20220512
+pandas>=1.4.4
+scipy>=1.9.0
+scikit-image>=0.19.2
